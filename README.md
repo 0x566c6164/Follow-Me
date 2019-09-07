@@ -26,7 +26,7 @@ Go back to parent directory and run the app with  **npm run app**
 cd ../
 npm run app
 ```
-The app will be located at **http://localhost:1234/**   
+The app is located at **http://localhost:1234/**   
 The database is located at **http://localhost:3000/api/**  
 Api endpoints: **/users/** and **/groups/**
 
@@ -45,9 +45,9 @@ Front-End
     universal-cookie: 4.0.2  
 
     Dev Dependencies
-    @babel/core": 7.5.5
+    @babel/core: 7.5.5
     babel-preset-nano-react-app: 0.1.0
-    npm-run-all": 4.1.5
+    npm-run-all: 4.1.5
     parcel-bundler: 1.12.3  
 
 Back-End    
