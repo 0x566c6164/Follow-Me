@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Zuck Atkins",
+      "group_id": 0,
+      "followers": []
+    },
+    {
+      "id": 1,
+      "name": "Salinas Blanch",
+      "group_id": 0,
+      "followers": []
+    },
+    {
+      "id": 2,
+      "name": "Jenifer Hamilton",
+      "group_id": 1,
+      "followers": []
+    },
+    {
+      "id": 3,
+      "name": "Jack Fury",
+      "group_id": 1,
+      "followers": []
+    },
+    {
+      "id": 4,
+      "name": "Carolin Marshall",
+      "group_id": 2,
+      "followers": [
+        {
+          "id": 2,
+          "name": "Jenifer Hamilton"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Taio Zimmer",
+      "group_id": 2,
+      "followers": []
+    },
+    {
+      "id": 6,
+      "name": "Maxwell Cline",
+      "group_id": 3,
+      "followers": []
+    },
+    {
+      "id": 7,
+      "name": "Ashley Morton",
+      "group_id": 3,
+      "followers": [
+        {
+          "id": 2,
+          "name": "Jenifer Hamilton"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Bowers Conner",
+      "group_id": 4,
+      "followers": [
+        {
+          "id": 2,
+          "name": "Jenifer Hamilton"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gaines Carroll",
+      "group_id": 4,
+      "followers": []
+    }
+  ],
+  "groups": [
+    {
+      "id": 0,
+      "name": "Alpha"
+    },
+    {
+      "id": 1,
+      "name": "Bravo"
+    },
+    {
+      "id": 2,
+      "name": "Charlie"
+    },
+    {
+      "id": 3,
+      "name": "Delta"
+    },
+    {
+      "id": 4,
+      "name": "Echo"
+    }
+  ]
+}

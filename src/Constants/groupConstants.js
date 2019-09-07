@@ -1,0 +1,9 @@
+export const GROUP_REQUEST = 'GROUP_REQUEST';
+export const GROUP_SUCCESS = 'GROUP_SUCCESS';
+export const GROUP_FAILURE = 'GROUP_FAILURE';
+
+export default {
+  GROUP_REQUEST,
+  GROUP_SUCCESS,
+  GROUP_FAILURE,
+}
